@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [
+        "SingltonDesignPattern",
+        "FileManagerOperation/FileManagerOperation/CommonFileManager",
+        "FactoryDesignPattern",
+        "Faced Design Pattern/Faced Design Pattern",
+        "DecoratorDesignPattern",
+        "AbstractFactory",
+        "ProxyDesignPattern"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\mysql-connector-j-8.2.0.jar"
+    ]
+}

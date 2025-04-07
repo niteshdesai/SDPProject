@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\pc\\Downloads\\mysql-connector-j-9.1.0\\mysql-connector-j-9.1.0.jar",
+        "c:\\Users\\pc\\Downloads\\sqljdbc_12.8.1.0_enu\\sqljdbc_12.8\\enu\\jars\\mssql-jdbc-12.8.1.jre11.jar",
+        "c:\\Users\\pc\\Downloads\\postgresql-42.7.5.jar",
+        "c:\\Users\\pc\\Downloads\\sqlite-jdbc-3.48.0.0.jar"
+    ]
+}
